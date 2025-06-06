@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\bin\Debug\sınav öncesi haftası.exe.config
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\bin\Debug\sınav öncesi haftası.exe
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\bin\Debug\sınav öncesi haftası.pdb
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav öncesi haftası.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav_öncesi_haftası.Form1.resources
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav_öncesi_haftası.Properties.Resources.resources
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav öncesi haftası.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav öncesi haftası.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav öncesi haftası.exe
+C:\Users\yumna\source\repos\sınav öncesi haftası\sınav öncesi haftası\obj\Debug\sınav öncesi haftası.pdb

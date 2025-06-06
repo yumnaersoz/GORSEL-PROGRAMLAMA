@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe Oyunu.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe_Oyunu.Form1.resources
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe_Oyunu.Properties.Resources.resources
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe Oyunu.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\bin\Debug\Şişe Oyunu.exe.config
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\bin\Debug\Şişe Oyunu.exe
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\bin\Debug\Şişe Oyunu.pdb
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe Oyunu.exe
+C:\Users\yumna\source\repos\Şişe Oyunu\Şişe Oyunu\obj\Debug\Şişe Oyunu.pdb
