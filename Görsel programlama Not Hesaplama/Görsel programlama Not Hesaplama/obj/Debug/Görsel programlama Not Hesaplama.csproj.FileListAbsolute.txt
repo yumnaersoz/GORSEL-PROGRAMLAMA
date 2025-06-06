@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\bin\Debug\Görsel programlama Not Hesaplama.exe.config
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\bin\Debug\Görsel programlama Not Hesaplama.exe
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\bin\Debug\Görsel programlama Not Hesaplama.pdb
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel programlama Not Hesaplama.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel_programlama_Not_Hesaplama.Form1.resources
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel_programlama_Not_Hesaplama.Properties.Resources.resources
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel programlama Not Hesaplama.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel programlama Not Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel programlama Not Hesaplama.exe
+C:\Users\yumna\source\repos\Görsel programlama Not Hesaplama\Görsel programlama Not Hesaplama\obj\Debug\Görsel programlama Not Hesaplama.pdb

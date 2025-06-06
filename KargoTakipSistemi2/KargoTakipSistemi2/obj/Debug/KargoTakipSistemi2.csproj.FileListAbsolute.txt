@@ -1,0 +1,32 @@
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\KargoTakipSistemi2.exe.config
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\KargoTakipSistemi2.exe
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\KargoTakipSistemi2.pdb
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.LoginForm.resources
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.MainForm.resources
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.Properties.Resources.resources
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.exe
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.pdb
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.CreateShipmentForm.resources
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.ShipmentListForm.resources
+C:\Users\yumna\source\repos\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTak.BC3D7FEE.Up2Date
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.csproj.AssemblyReference.cache
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.CreateShipmentForm.resources
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.LoginForm.resources
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.MainForm.resources
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.Properties.Resources.resources
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.ShipmentListForm.resources
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.csproj.GenerateResource.cache
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.exe
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTakipSistemi2.pdb
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\KargoTakipSistemi2.exe.config
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\KargoTakipSistemi2.exe
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\KargoTakipSistemi2.pdb
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yumna\GÖRSEL PROGRAMLAMA MASAÜSTÜ\KargoTakipSistemi2\KargoTakipSistemi2\obj\Debug\KargoTak.BC3D7FEE.Up2Date
