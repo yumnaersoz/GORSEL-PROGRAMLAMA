@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\bin\Debug\Dama Oyunu2.exe.config
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\bin\Debug\Dama Oyunu2.exe
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\bin\Debug\Dama Oyunu2.pdb
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama Oyunu2.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama_Oyunu2.Form1.resources
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama_Oyunu2.Properties.Resources.resources
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama Oyunu2.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama Oyunu2.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama Oyunu2.exe
+C:\Users\yumna\source\repos\Dama Oyunu2\Dama Oyunu2\obj\Debug\Dama Oyunu2.pdb

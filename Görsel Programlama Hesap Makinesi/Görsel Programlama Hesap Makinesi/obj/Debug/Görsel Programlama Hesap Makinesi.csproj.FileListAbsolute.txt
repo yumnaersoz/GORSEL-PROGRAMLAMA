@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\bin\Debug\Görsel Programlama Hesap Makinesi.exe.config
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\bin\Debug\Görsel Programlama Hesap Makinesi.exe
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\bin\Debug\Görsel Programlama Hesap Makinesi.pdb
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel Programlama Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel_Programlama_Hesap_Makinesi.Form1.resources
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel_Programlama_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel Programlama Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel Programlama Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel Programlama Hesap Makinesi.exe
+C:\Users\yumna\source\repos\Görsel Programlama Hesap Makinesi\Görsel Programlama Hesap Makinesi\obj\Debug\Görsel Programlama Hesap Makinesi.pdb

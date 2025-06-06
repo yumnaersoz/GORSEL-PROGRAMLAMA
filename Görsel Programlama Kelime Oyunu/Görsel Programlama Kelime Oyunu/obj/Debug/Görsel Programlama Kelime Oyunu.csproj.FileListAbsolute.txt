@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\bin\Debug\Görsel Programlama Kelime Oyunu.exe.config
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\bin\Debug\Görsel Programlama Kelime Oyunu.exe
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\bin\Debug\Görsel Programlama Kelime Oyunu.pdb
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel Programlama Kelime Oyunu.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel_Programlama_Kelime_Oyunu.Form1.resources
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel_Programlama_Kelime_Oyunu.Properties.Resources.resources
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel Programlama Kelime Oyunu.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel Programlama Kelime Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel Programlama Kelime Oyunu.exe
+C:\Users\yumna\source\repos\Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu\obj\Debug\Görsel Programlama Kelime Oyunu.pdb

@@ -1,0 +1,10 @@
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\bin\Debug\Görsel Programlama 1.exe.config
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\bin\Debug\Görsel Programlama 1.exe
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\bin\Debug\Görsel Programlama 1.pdb
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel Programlama 1.csproj.AssemblyReference.cache
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel_Programlama_1.Form1.resources
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel_Programlama_1.Properties.Resources.resources
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel Programlama 1.csproj.GenerateResource.cache
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel Programlama 1.csproj.CoreCompileInputs.cache
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel Programlama 1.exe
+C:\Users\yumna\source\repos\Görsel Programlama 1\Görsel Programlama 1\obj\Debug\Görsel Programlama 1.pdb

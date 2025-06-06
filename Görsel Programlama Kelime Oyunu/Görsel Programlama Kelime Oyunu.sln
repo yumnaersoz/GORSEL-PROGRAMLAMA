@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Görsel Programlama Kelime Oyunu", "Görsel Programlama Kelime Oyunu\Görsel Programlama Kelime Oyunu.csproj", "{463431A5-17B5-4F49-B46E-43A14CECF9FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463431A5-17B5-4F49-B46E-43A14CECF9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463431A5-17B5-4F49-B46E-43A14CECF9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463431A5-17B5-4F49-B46E-43A14CECF9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463431A5-17B5-4F49-B46E-43A14CECF9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BD5FCA-61A6-452F-AE8F-B37F57B48388}
+	EndGlobalSection
+EndGlobal
